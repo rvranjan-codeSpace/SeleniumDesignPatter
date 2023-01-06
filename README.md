@@ -1,2 +1,2 @@
-# SeleniumDesignPatter
+# SeleniumDesignPattern
 Design Patterns in Selenium
